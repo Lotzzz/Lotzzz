@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lotzzz
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Jetpack
+- 🌱 I’m currently learning Compose
 - 📫 How to reach me longfei.liu@lotusflare.com
 
 <!---
